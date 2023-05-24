@@ -84,7 +84,7 @@ public class Department {
 		for (Employee employee : employees) {
 			sb.append(employee + "\n");
 		}
-		sb.append("\nPara dúvidas, favor entrar em contato: \n");
+		sb.append("PARA DÚVIDAS, FAVOR ENTRAR EM CONTATO: \n");
 		sb.append(address);
 
 		return sb.toString();
