@@ -31,7 +31,7 @@ public class Address {
 
 	@Override
 	public String toString() {
-		return email + " - " + phone;
+		return "Email: " + email + "\n" + "Telefone: " + phone;
 	}
 
 }
